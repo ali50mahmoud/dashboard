@@ -1,0 +1,124 @@
+{
+	"operationDate": "2022-12-23T09:24:03",
+	"operatedBy": 1000026,
+	"sourceChannel": {
+		"id": 3
+	},
+	  "firstNameEn": "Mareev",
+    "firstNameAr": "ماريف",
+    "secondNameEn": "Emil",
+    "secondNameAr": "إميل",
+    "lastNameEn": "Samuel",
+    "lastNameAr": "صموئيل", 
+    "nameEn": "Samuel",
+    "nameAr": "ماريف ",
+	"motherNameEn": "MRS",
+	"motherNameAr": "السيدة",
+	"gender": {
+		"id": 1
+	},
+	"birthDate": "2010-12-01",
+	"birthPlaceEn": "PALESTINE",
+	"birthPlaceAr": "فلسطين",
+	"religion": {
+		"id": 1
+	},
+	"socialStatus": {
+		"id": 1
+	},
+	"education": {
+		"id": 999
+	},
+	"abroadAddress": {},
+	"localAddress": {
+		"emirate": {
+			"id": 1
+		}
+	},
+	"languages": [
+		{
+			"id": 1
+		},
+		{
+			"id": 98
+		},
+		{
+			"id": 2
+		}
+	],
+	"immigrationDocuments": [
+		{
+			"documentNo": "TD1232323",
+			"documentType": {
+				"passportType": {
+					"id": 1
+				}
+			},
+			"expiryDate": "2025-12-30",
+			"issueCountry": {
+				"id": 101
+			},
+			"issueCountryGov": {
+				"id": 101
+			},
+			"nationality": {
+				"id": 101
+			}
+		},
+		{
+			"documentNo": "65834687687634876",
+			"documentType": {
+				"passportType": {
+					"id": 1
+				}
+			},
+			"expiryDate": "2024-02-06",
+			"issueCountry": {
+				"id": 205
+			},
+			"issueCountryGov": {
+				"id": 205
+			},
+			"issueDate": "2022-02-07",
+			"nationality": {
+				"id": 205
+			}
+		}
+	],
+	"legalityStatus": {
+		"id": 1
+	},
+	"profession": {
+		"id": 9999917
+	},
+	"nationality": {
+		"id": 101
+	},
+	"homeTelephoneContact": {
+		"contactDetail": "123456",
+		"preferred": true
+	},
+	"workTelephoneContact": {
+		"contactDetail": "123456",
+		"preferred": true
+	},
+	"mobileContact": {
+		"contactDetail": "123456",
+		"preferred": true
+	},
+	"emailContact": {
+		"contactDetail": "123456",
+		"preferred": true
+	},
+	"abroadTelephoneContact": {
+		"contactDetail": "123456",
+		"preferred": true
+	},
+	"faxContact": {
+		"contactDetail": "123456",
+		"preferred": true
+	},
+	"isOverridable": true,
+	"accompaniedProfiles": [],
+	"serviceConsumerEventInstruction": "NOT_AVAILABLE"
+}

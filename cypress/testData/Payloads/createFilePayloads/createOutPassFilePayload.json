@@ -1,0 +1,58 @@
+{
+    "fileComponent": {
+        "department": {
+            "id": 204
+        },
+        "issuedYear": 2023,
+        "serialNumber": 800991
+    },
+    "fileExitReason": {
+        "id": 1
+    },
+    "stayDays": 30,
+    "linkedFileComponent": {
+        "department": {
+            "id": 204
+        },
+        "fileType" : {
+         "id" : 7
+        },
+        "issuedYear": 2023,
+        "serialNumber": 999123
+    },
+    "fileCategory": {
+        "id": 3
+    },
+    "linkedFileCategory": {
+        "id": 1
+    },
+    "outpassPort": {
+        "id": 290
+    },
+    "fileSubType": null,
+    "relationship": {
+        "id": 1
+    },
+    "operationType": {
+        "id": 60
+    },
+    "applicationId": 20230327115431,
+    "applicationNo": 20230327115431,
+    "appApprovedDate": "2023-12-05 13:04:44",
+    "appPaymentDate": "2023-12-05 13:04:43",
+    "applicantProfileId": 22669876,
+    "sponsorInfo": {
+        "sponsorType": {
+          "id": 3
+        },
+        "sponsorNumber": 22999991
+      },
+      "profession": {
+        "id": 1
+      },
+      "applicantPassportId": 524287372,
+      "channel": {
+        "id": 1
+      },
+    "remarks": "create outpass file"
+}

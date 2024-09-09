@@ -1,0 +1,16 @@
+{
+    "fileComponent": {
+        "department": {
+            "id": 216
+        },
+        "fileType": {
+            "id": 27
+        },
+        "issuedYear": 2022,
+        "serialNumber": 207408
+    },    
+  "fileCategory": {
+    "id": 1
+  },
+    "profileIds": null
+ }

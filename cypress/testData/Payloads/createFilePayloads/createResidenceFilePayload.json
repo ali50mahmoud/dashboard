@@ -1,0 +1,56 @@
+{
+    "oldFileComponent": {
+        "department": {
+            "id": 204
+        },
+    "fileType" : {
+         "id" : 76
+     },
+        "issuedYear": 2023,
+        "serialNumber": 34125
+    },
+    "fileComponent": {
+        "department": {
+            "id": 204
+        },
+     "fileType" : {
+         "id" : 3
+     },
+        "issuedYear": 2023,
+        "serialNumber": 20551
+    },
+    "oldFileCategory": {
+        "id": 1
+    },
+    
+    "fileDurationYears": 3,
+    "fileCategory": {
+        "id": 2
+    },
+    "fileSubType": null,
+    "relationship": {
+        "id": 1
+    },
+    "operationType": {
+        "id": 21
+    },
+    "applicationId": 55762174,
+    "applicationNo": 22220104861141,
+    "appApprovedDate": "2023-12-05 13:04:44",
+    "appPaymentDate": "2023-12-05 13:04:43",
+    "applicantProfileId": 116105400,
+    "sponsorInfo": {
+        "sponsorType": {
+            "id": 3
+        },
+        "sponsorNumber": 22967315
+    },
+    "profession": {
+        "id": 1
+    },
+    "applicantPassportId": 523518603,
+    "channel": {
+        "id": 32
+    },
+    "remarks": "create file using old file"
+}

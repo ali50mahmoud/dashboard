@@ -1,0 +1,42 @@
+{
+  "fileComponent": {
+    "department": {
+      "id": 216
+    },
+    "fileType": {
+      "id": "85"
+    },
+    "issuedYear": 2024,
+    "serialNumber": 578309
+  },
+  "fileCategory": {
+    "id": 1
+  },
+  "fileSubType": null,
+  "relationship": {
+    "id": 1
+  },
+  "operationType": {
+    "id": 1
+  },
+  "applicationId": 445804,
+  "applicationNo": 2013201035310,
+  "appApprovedDate": "2024-04-26 07:01:13",
+  "appPaymentDate": "2024-04-26 07:01:13",
+  "applicantProfileId": 117152476,
+  "sponsorInfo": {
+    "sponsorType": {
+      "id": 3
+    },
+    "sponsorNumber": 22999991
+  },
+  "profession": {
+    "id": 1
+  },
+  "applicantPassportId": 524630354,
+  "channel": {
+    "id": 1
+  },
+  "remarks": "create file - PERMIT",
+  "fileDurationYears": 2
+}

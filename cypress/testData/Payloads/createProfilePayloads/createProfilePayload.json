@@ -1,0 +1,106 @@
+{
+  "operationDate": "2022-12-23T09:24:03",
+  "operatedBy": 1000026,
+  "sourceChannel": {
+    "id": 3
+  },
+  "firstNameEn": "GYZU",
+  "firstNameAr": "حلذا",
+  "secondNameEn": "MLMI",
+  "secondNameAr": "نيتط",
+  "lastNameEn": "ACON",
+  "lastNameAr": "صعير",
+  "nameEn": "GYZU MLMI ACON",
+  "nameAr": "حلذا نيتط صعير",
+  "motherNameEn": "ZLZK",
+  "motherNameAr": "كوعج",
+  "gender": {
+    "id": 1
+  },
+  "birthDate": "1978-07-02T00:00:00",
+  "birthPlaceEn": "PALESTINE",
+  "birthPlaceAr": "فلسطين",
+  "religion": {
+    "id": 1
+  },
+  "socialStatus": {
+    "id": 1
+  },
+  "education": {
+    "id": 999
+  },
+  "abroadAddress": {},
+  "localAddress": {
+    "emirate": {
+      "id": 1
+    }
+  },
+  "languages": [
+    {
+      "id": 1
+    },
+    {
+      "id": 98
+    },
+    {
+      "id": 2
+    }
+  ],
+  "immigrationDocuments": [
+    {
+      "documentNo": "LR939719709",
+      "documentType": {
+        "passportType": {
+          "id": 1
+        }
+      },
+      "expiryDate": "2055-12-30",
+      "issueCountry": {
+        "id": 205
+      },
+      "issueCountryGov": {
+        "id": 205
+      },
+      "nationality": {
+        "id": 205
+      }
+    }
+  ],
+  "legalityStatus": {
+    "id": 1
+  },
+  "profession": {
+    "id": 9999917
+  },
+  "nationality": {
+    "id": 205
+  },
+  "homeTelephoneContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "workTelephoneContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "mobileContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "emailContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "abroadTelephoneContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "faxContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "isOverridable": true,
+  "accompaniedProfiles": [],
+  "serviceConsumerEventInstruction": "NOT_AVAILABLE",
+  "passportNo": "LR939719709"
+}

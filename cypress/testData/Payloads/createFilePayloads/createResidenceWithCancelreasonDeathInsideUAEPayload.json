@@ -1,0 +1,42 @@
+{
+    "fileComponent": {
+        "department": {
+            "id": 216
+        },
+        "fileType": {
+            "id": 2
+        },
+        "issuedYear": 2024,
+        "serialNumber": 322555
+    },
+    "fileCategory": {
+        "id": 2
+    },
+    "fileSubType": null,
+    "relationship": {
+        "id": 1
+    },
+    "operationType": {
+        "id": 1
+    },
+    "applicationId": 445804,
+    "applicationNo": 2013201035310,
+    "appApprovedDate": "2024-02-22 13:04:44",
+    "appPaymentDate": "2024-02-22 13:04:44",
+    "applicantProfileId": 116468738,
+    "sponsorInfo": {
+        "sponsorType": {
+            "id": 3
+        },
+        "sponsorNumber": 22999991
+    },
+    "profession": {
+        "id": 1
+    },
+    "applicantPassportId": 523885613,
+    "channel": {
+        "id": 1
+    },
+    "remarks": "create file - residence",
+    "fileDurationYears": 2
+}

@@ -1,0 +1,200 @@
+{
+  "body": [
+    {
+      "searchCode": "GENERAL",
+      "individualProfileDTO": {
+        "ppsId": 116878663,
+        "stateStatus": 0,
+        "score": 100,
+        "birthDate": "23/05/1991",
+        "motherNameAr": "ثمطج",
+        "motherNameEn": "DIME",
+        "nameAr": "هتبح زبنب ططقد",
+        "nameEn": "VGNP ETMK YAQH",
+        "udbNo": 223550966,
+        "nationality": {
+          "id": 205
+        },
+        "birthCountry": {
+          "id": 205
+        },
+        "gender": {
+          "id": 2
+        },
+        "legalityStatus": {
+          "id": 3
+        },
+        "profession": {
+          "id": 1
+        },
+        "settled": false,
+        "version": 1,
+        "accompanied": false,
+        "active": true
+      },
+      "passports": [
+        {
+          "passportId": 524335007,
+          "ppsId": null,
+          "expiryDate": null,
+          "active": true,
+          "issueDate": null,
+          "issuePlaceAr": null,
+          "issuePlaceEn": null,
+          "passportNo": "LR473229028",
+          "passportNoNumeric": null,
+          "issueCountry": null,
+          "issueCountryGov": {
+            "id": 205
+          },
+          "passportType": {
+            "id": 1
+          },
+          "nationality": {
+            "id": 205
+          },
+          "prevPassportId": null,
+          "settled": null,
+          "passportPersonInfoDTO": null,
+          "individualDisability": null,
+          "channel": null,
+          "appId": null,
+          "legacy": null,
+          "matched": false,
+          "passportByOrder": null,
+          "passportByOrderWithdrawn": null,
+          "passportByOrderWithdrawalReason": null
+        }
+      ],
+      "uaeIds": [],
+      "personInfo": [],
+      "individualSponsorNoDetails": [],
+      "profileDocuments": [],
+      "isScoreCalculated": 1
+    }
+  ],
+  "headers": {
+    "x-powered-by": "Servlet/4.0",
+    "content-type": "application/json",
+    "content-language": "en-US",
+    "transfer-encoding": "chunked",
+    "date": "Wed, 03 Apr 2024 13:06:13 GMT"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "isOkStatusCode": true,
+  "requestHeaders": {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "158a483339019a3b61eb7e2eae729fbc47360ee18381dfff9a77045d7f32f886",
+    "consumer_id": "Mifi9sijn289E3D4sEWE3WEW2kukr77d",
+    "operated_by": 1001,
+    "accept": "*/*",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "cookie": "BIGipServerVSN_STG_ACT_ACT_10.61.50.201_pool_18011=rd19o00000000000000000000ffff0a3d380bo18011; JSESSIONID=0000osJeqxB-hgs42VlkZtYnAst:canstgapp5individualSvc",
+    "accept-encoding": "gzip, deflate",
+    "content-length": 129
+  },
+  "requestBody": "{\"fullName\":\"VGNP ETMK YAQH\",\"fullNameAr\":\"هتبح زبنب ططقد\",\"gender\":\"FEMALE\",\"birthDate\":\"23-May-1991\",\"natCode\":205}",
+  "duration": 56,
+  "allRequestResponses": [
+    {
+      "Request Body": "{\"fullName\":\"VGNP ETMK YAQH\",\"fullNameAr\":\"هتبح زبنب ططقد\",\"gender\":\"FEMALE\",\"birthDate\":\"23-May-1991\",\"natCode\":205}",
+      "Request Headers": {
+        "Connection": "keep-alive",
+        "Content-Type": "application/json",
+        "Authorization": "158a483339019a3b61eb7e2eae729fbc47360ee18381dfff9a77045d7f32f886",
+        "consumer_id": "Mifi9sijn289E3D4sEWE3WEW2kukr77d",
+        "operated_by": 1001,
+        "accept": "*/*",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        "cookie": "BIGipServerVSN_STG_ACT_ACT_10.61.50.201_pool_18011=rd19o00000000000000000000ffff0a3d380bo18011; JSESSIONID=0000osJeqxB-hgs42VlkZtYnAst:canstgapp5individualSvc",
+        "accept-encoding": "gzip, deflate",
+        "content-length": 129
+      },
+      "Request URL": "https://stgcore.e-vision.ae/individual-profile-canary/api/v1/profiles/search",
+      "Response Body": [
+        {
+          "searchCode": "GENERAL",
+          "individualProfileDTO": {
+            "ppsId": 116878663,
+            "stateStatus": 0,
+            "score": 100,
+            "birthDate": "23/05/1991",
+            "motherNameAr": "ثمطج",
+            "motherNameEn": "DIME",
+            "nameAr": "هتبح زبنب ططقد",
+            "nameEn": "VGNP ETMK YAQH",
+            "udbNo": 223550966,
+            "nationality": {
+              "id": 205
+            },
+            "birthCountry": {
+              "id": 205
+            },
+            "gender": {
+              "id": 2
+            },
+            "legalityStatus": {
+              "id": 3
+            },
+            "profession": {
+              "id": 1
+            },
+            "settled": false,
+            "version": 1,
+            "accompanied": false,
+            "active": true
+          },
+          "passports": [
+            {
+              "passportId": 524335007,
+              "ppsId": null,
+              "expiryDate": null,
+              "active": true,
+              "issueDate": null,
+              "issuePlaceAr": null,
+              "issuePlaceEn": null,
+              "passportNo": "LR473229028",
+              "passportNoNumeric": null,
+              "issueCountry": null,
+              "issueCountryGov": {
+                "id": 205
+              },
+              "passportType": {
+                "id": 1
+              },
+              "nationality": {
+                "id": 205
+              },
+              "prevPassportId": null,
+              "settled": null,
+              "passportPersonInfoDTO": null,
+              "individualDisability": null,
+              "channel": null,
+              "appId": null,
+              "legacy": null,
+              "matched": false,
+              "passportByOrder": null,
+              "passportByOrderWithdrawn": null,
+              "passportByOrderWithdrawalReason": null
+            }
+          ],
+          "uaeIds": [],
+          "personInfo": [],
+          "individualSponsorNoDetails": [],
+          "profileDocuments": [],
+          "isScoreCalculated": 1
+        }
+      ],
+      "Response Headers": {
+        "x-powered-by": "Servlet/4.0",
+        "content-type": "application/json",
+        "content-language": "en-US",
+        "transfer-encoding": "chunked",
+        "date": "Wed, 03 Apr 2024 13:06:13 GMT"
+      },
+      "Response Status": 200
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "operationDate": "2022-12-23T09:24:03",
+  "operatedBy": 1000026,
+  "sourceChannel": {
+    "id": 3
+  },
+  "firstNameEn": "UGNI",
+  "firstNameAr": "لفغز",
+  "secondNameEn": "VRRV",
+  "secondNameAr": "رهرخ",
+  "lastNameEn": "NEDK",
+  "lastNameAr": "كثقض",
+  "nameEn": "UGNI VRRV NEDK",
+  "nameAr": "لفغز رهرخ كثقض",
+  "motherNameEn": "HGNC",
+  "motherNameAr": "رظمث",
+  "gender": {
+    "id": 1
+  },
+  "birthDate": "1977-09-11T00:00:00",
+  "birthPlaceEn": "PALESTINE",
+  "birthPlaceAr": "فلسطين",
+  "religion": {
+    "id": 1
+  },
+  "socialStatus": {
+    "id": 1
+  },
+  "education": {
+    "id": 999
+  },
+  "abroadAddress": {},
+  "localAddress": {
+    "emirate": {
+      "id": 1
+    }
+  },
+  "languages": [
+    {
+      "id": 1
+    },
+    {
+      "id": 98
+    },
+    {
+      "id": 2
+    }
+  ],
+  "immigrationDocuments": [
+    {
+      "documentNo": "LR139602281",
+      "documentType": {
+        "passportType": {
+          "id": 1
+        }
+      },
+      "expiryDate": "2055-12-30",
+      "issueCountry": {
+        "id": 101
+      },
+      "issueCountryGov": {
+        "id": 101
+      },
+      "nationality": {
+        "id": 101
+      }
+    },
+    {
+      "documentNo": "65834687687634876",
+      "documentType": {
+        "uaeIdType": {
+          "id": 2
+        }
+      },
+      "expiryDate": "2024-02-06",
+      "issueCountry": {
+        "id": 101
+      },
+      "issueCountryGov": {
+        "id": 101
+      },
+      "issueDate": "2022-02-07",
+      "nationality": {
+        "id": 101
+      }
+    }
+  ],
+  "legalityStatus": {
+    "id": 1
+  },
+  "profession": {
+    "id": 9999917
+  },
+  "nationality": {
+    "id": 101
+  },
+  "homeTelephoneContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "workTelephoneContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "mobileContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "emailContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "abroadTelephoneContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "faxContact": {
+    "contactDetail": "123456",
+    "preferred": true
+  },
+  "isOverridable": true,
+  "accompaniedProfiles": [],
+  "serviceConsumerEventInstruction": "NOT_AVAILABLE",
+  "passportNo": "LR139602281"
+}

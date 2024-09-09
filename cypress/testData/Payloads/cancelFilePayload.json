@@ -1,0 +1,34 @@
+{
+    "fileComponent": {
+        "department": {
+            "id": 204
+        },
+        "fileType": {
+            "id": 87
+        },
+        "issuedYear": 2024,
+        "serialNumber": 879211
+    },
+    "fileCategory": {
+        "id": 1
+    },
+    "fileSubType": null,
+    "applicationId": 55762174,
+    "applicationNo": 22220104861141,
+    "appApprovedDate": "2024-01-20 13:04:44",
+    "appPaymentDate": "2024-01-20 13:04:43",
+    "cancelReason": {
+        "id": 1
+    },
+    "cancelDate": "2024-02-01 01:04:44",
+    "operationType": {
+        "id": 10
+    },
+    "closePlace": {
+        "id": 1
+    },
+    "channel": {
+        "id": 1
+    },
+    "remarks": "cancel file"
+}
