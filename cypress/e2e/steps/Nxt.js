@@ -33,6 +33,8 @@ When("I navigate to each page", () => {
   cy.contains("p.Text_root__M6tno", "Explore").click();
   cy.contains("p.Text_root__M6tno", "Itinerary").click();
   cy.contains("p.Text_root__M6tno", "Send Updates").click();
+
+
   cy.wait(7000)
   cy.contains("span.Text_root__M6tno", "Planning").click();
   cy.contains("p.Text_root__M6tno", "Packages").click();
@@ -43,11 +45,16 @@ When("I navigate to each page", () => {
   cy.get('#package_type').click();
   cy.get('select#entity').select('text_add');
   cy.wait(7000)
+  cy.contains('button', 'Save').click();
+  cy.wait(7000)
+
 
   cy.contains("p.Text_root__M6tno", "Sessions").click();
 
   cy.contains("span.Text_root__M6tno", "Reports").click();
   cy.contains("span.Text_root__M6tno", "Users Reports").click();
+
+
 
   cy.contains("span.Text_root__M6tno", "Registration").click();
   cy.contains("p.Text_root__M6tno", "Attendees").click();
