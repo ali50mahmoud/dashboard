@@ -22,19 +22,18 @@ Given("I am on the demo Admin dashboard login page", () => {
 });
 
 Then("I should be logged into the Admin dashboard", () => {
-  // Write code here to verify successful login to the Admin dashboard
+  
 });
 
-//   Given('I am logged into the Admin dashboard', () => {
-//     // Write code here that ensures you are logged into the Admin dashboard
-//   });
+
 
 When("I navigate to each page", () => {
+  cy.wait(7000)
   cy.contains("span.Text_root__M6tno", "Content").click();
   cy.contains("p.Text_root__M6tno", "Explore").click();
   cy.contains("p.Text_root__M6tno", "Itinerary").click();
   cy.contains("p.Text_root__M6tno", "Send Updates").click();
-
+  cy.wait(7000)
   cy.contains("span.Text_root__M6tno", "Planning").click();
   cy.contains("p.Text_root__M6tno", "Packages").click();
   cy.contains("button", "New Package").click();
@@ -43,7 +42,7 @@ When("I navigate to each page", () => {
   cy.get('input[placeholder="Flights"]').type("fdfdfd");
   cy.get('#package_type').click();
   cy.get('select#entity').select('text_add');
-  cy.wait(10000)
+  cy.wait(7000)
 
   cy.contains("p.Text_root__M6tno", "Sessions").click();
 
@@ -56,7 +55,7 @@ When("I navigate to each page", () => {
 });
 
 Then("there should be no errors on any page", () => {
-  // Write code here to check that there are no errors on any page
+  
 });
 
 When('I navigate to the "Add Attendee" page', () => {
@@ -74,7 +73,7 @@ And("I fill in the attendee details", () => {
   cy.get("#lastName").type(uniqueLastName);
   const uniqueEmail = `wirepe${Date.now()}@apifan.com`;
   cy.get("#email").type(uniqueEmail);
-
+  cy.wait(7000)
   cy.contains("button", "Create").click();
   cy.visit(
     "https://qa-test-frontend-ce07bae316f3.herokuapp.com/users/all/users/p/1"
@@ -92,6 +91,8 @@ And("I add a trip for the attendee", () => {
   .then(option => {
     cy.get('select#entity').select(option.val());
   });
+
+  cy.wait(7000)
   cy.contains("button", "Save").last().click();
 
   cy.wait(7000)
@@ -99,9 +100,9 @@ And("I add a trip for the attendee", () => {
 });
 
 And("I click the save button", () => {
-  // Write code here to click the save button
+  
 });
 
 Then("the attendee with the trip should be added successfully", () => {
-  // Write code here to verify the attendee with the trip was added successfully
+  
 });
