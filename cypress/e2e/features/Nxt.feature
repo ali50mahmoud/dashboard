@@ -1,10 +1,6 @@
 Feature: Nxt
 
 
-
-  
-
-
    Scenario: Screen recording of the automated test for the login page functionality
     Given I am on the demo Admin dashboard login page
     Given Login to home page English

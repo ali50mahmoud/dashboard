@@ -15,20 +15,20 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-beforeEach(() => {
-    // cy.fixture('data').as('user')
-    cy.viewport(1280, 720)
+// beforeEach(() => {
+//     // cy.fixture('data').as('user')
+//     cy.viewport(1280, 720)
    
-}) 
+// }) 
 
 
 
 
 
-after(()=>{
-    cy.exec('npx cucumber-json-merge -d cypress/cucumber-json/',{failOnNonZeroExit: false})
+// after(()=>{
+//     cy.exec('npx cucumber-json-merge -d cypress/cucumber-json/',{failOnNonZeroExit: false})
     
-})
+// })
 Cypress.on('uncaught:exception', (err, runnable) => {
     // return false to prevent Cypress from failing the test
     return false;
